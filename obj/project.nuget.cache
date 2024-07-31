@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1YpX/FeEdWc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\niraj\\OneDrive\\Desktop\\F#\\wednesdaylab2\\Nir\\Nir.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\niraj\\.nuget\\packages\\fsharp.core\\8.0.301\\fsharp.core.8.0.301.nupkg.sha512"
+  ],
+  "logs": []
+}
